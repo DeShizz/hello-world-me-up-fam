@@ -1,1 +1,1 @@
-print("Hello world me up fam!");
+print("Hello, World!\n");
